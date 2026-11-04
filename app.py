@@ -20,7 +20,7 @@ st.set_page_config(
 
 TOTAL_PREGUNTAS = 3
 
-MODELO_GEMINI = "gemini-3.8-flash"
+MODELO_GEMINI = "gemini-3.5-flash-lite"
 
 ROLES = {
     "Desarrollador Python Junior": (
